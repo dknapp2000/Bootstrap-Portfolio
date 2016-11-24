@@ -1,7 +1,9 @@
 
 #thegang {
 	float: left;
-	width: 33%;
+	width: 50%;
+	margin-right: 10px;
+	margin-bottom: 10px;
 }
 
 #about {
